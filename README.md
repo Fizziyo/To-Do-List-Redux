@@ -1,9 +1,13 @@
 ## Steps to run locally
 1. Run `npm i`
 2. Run `npm start`
+3. Open link http://localhost:5173/
 
 ## Screenshot
 
-<img width="1679" alt="Screenshot 2024-04-15 at 8 25 09 PM" src="https://github.com/Fizziyo/to-do-list/assets/7385269/f9f08fb7-8e10-4c18-bcfc-efb8fede0c73">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 59 04 PM" src="https://github.com/Fizziyo/To-Do-List-Redux/assets/125257392/6619cfd4-9775-4d29-a3d7-9c2a6f2de949">
 
-<img width="1679" alt="Screenshot 2024-04-15 at 8 25 32 PM" src="https://github.com/Fizziyo/to-do-list/assets/7385269/c1628995-9545-42d5-a9e8-01f8ba689a5a">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 59 43 PM" src="https://github.com/Fizziyo/To-Do-List-Redux/assets/125257392/c378de84-330d-4175-a06f-4984f3e72210">
+
+
+
