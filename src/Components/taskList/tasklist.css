@@ -1,0 +1,44 @@
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.task {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #716c6c;
+}
+
+.task-list li:last-child {
+  border-bottom: none;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #bf5f7f;
+}
+
+.task-completed-radio {
+  margin-right: 8px;
+  cursor: pointer;
+}
